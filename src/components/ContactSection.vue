@@ -77,11 +77,14 @@
               >
                 Fb
               </a>
-            <button
-              class="h-8 w-8 rounded-full border border-slate-300 flex items-center justify-center text-xs text-slate-100"
-            >
-              Yt
-            </button>
+              <a
+                href="https://www.youtube.com/@aothunxuxubienhoa"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="h-8 w-8 rounded-full border border-slate-300 flex items-center justify-center text-xs text-slate-100 hover:bg-slate-800"
+              >
+                Yt
+              </a>
           </div>
         </div>
       </div>
