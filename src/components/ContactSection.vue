@@ -69,11 +69,14 @@
             MẠNG XÃ HỘI
           </h4>
           <div class="flex items-center gap-3 mt-2">
-            <button
-              class="h-8 w-8 rounded-full border border-slate-300 flex items-center justify-center text-xs text-slate-100"
-            >
-              Fb
-            </button>
+             <a
+                href="https://www.facebook.com/profile.php?id=61563628149354"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="h-8 w-8 rounded-full border border-slate-300 flex items-center justify-center text-xs text-slate-100 hover:bg-slate-800"
+              >
+                Fb
+              </a>
             <button
               class="h-8 w-8 rounded-full border border-slate-300 flex items-center justify-center text-xs text-slate-100"
             >
